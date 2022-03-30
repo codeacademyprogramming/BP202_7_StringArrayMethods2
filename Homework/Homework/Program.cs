@@ -34,6 +34,7 @@ namespace Homework
             }
         }
 
+        //comment
         static bool CheckFullName(string str)
         {
             MakeSentence(ref str);
